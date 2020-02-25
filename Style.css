@@ -1,0 +1,31 @@
+body {
+  background: grey;
+font-family: fantasy;
+    color:ghostwhite;
+}
+p {
+  height:inherit;
+  
+}
+h1 {
+  font-weight: lighter;
+}
+
+img {
+    
+    width: 200px
+        
+}
+a {
+    
+    margin-right: 2em;
+    color: black;
+        
+}
+
+img{
+ height: auto;
+    width:40%;
+    
+    
+}
